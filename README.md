@@ -1,24 +1,12 @@
-# my-vue-app
+# Vue.js Dynamic Theme App
 
-## Project setup
-```
-npm install
-```
+A Vue.js application with dynamic theme switching capabilities.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Light and Dark theme support
+- Theme persistence using localStorage
+- Responsive design
+- Custom theme switcher component
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
